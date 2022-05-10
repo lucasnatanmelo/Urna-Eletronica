@@ -1,6 +1,6 @@
 # UrnaEletronica
 
-Link: https://lucasnatanmelo.github.io/UrnaEletronica/
+Link: https://lucasnatanmelo.github.io/Urna-Eletronica/
 
 ## Sobre o projeto
 Urna Eletrônica - Simulador - Exercício utilizando HTML, CSS e JavaScript
